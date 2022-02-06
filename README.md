@@ -1,4 +1,5 @@
 ### Hola, Welcome to my Github profile 👋
+<hr/>
 
 I am a Full Stack Developer and I love contributing webapps to the fast growing internet.
 
@@ -6,7 +7,10 @@ I am a Full Stack Developer and I love contributing webapps to the fast growing 
 [![GitHub kd100100](https://img.shields.io/github/followers/kd100100?label=follow&style=social)](https://github.com/kd100100)
 
 I work on
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image]() ![image]() ![image]() ![image]() ![image]() ![image]()
+<br/>
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image]() ![image]() ![image]() ![image]() ![image]() ![image]()
 
 
 <!--
