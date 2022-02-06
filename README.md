@@ -1,6 +1,7 @@
 ### Hola, I am Keerthivasan. 👋
 
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
 
 <!--
