@@ -1,7 +1,3 @@
-### Hola, Welcome to my Github profile 👋
-<hr/>
-
-I am a Full Stack Developer and I love contributing webapps to the fast growing internet.
 
 Hola! Welcome to my Github profile 👋
 ===============================
