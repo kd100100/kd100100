@@ -4,7 +4,7 @@ Hola! Welcome to my Github profile 👋
 
 I am a Full Stack Developer and I love contributing webapps to the fast growing internet.
 
-*   🌍  I'm based in Chennai
+*   🌍  I'm from Bangalore
 *   ✉️  You can contact me at [keerthi.vasan.d@gmail.com](mailto:keerthi.vasan.d@gmail.com)
 *   🧠  I'm currently learning Test Driven Development
 *   🤝  I'm open to collaborating on React Js projects
