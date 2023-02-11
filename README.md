@@ -69,11 +69,11 @@ I'm a UI developer with a passion for creating beautiful and responsive designs.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kd100100&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kd100100&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kd100100&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kd100100&theme=dark&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -85,4 +85,3 @@ I'm a UI developer with a passion for creating beautiful and responsive designs.
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=kd100100&&style=flat-square)  
-  
