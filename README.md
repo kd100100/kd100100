@@ -2,12 +2,7 @@
 Hola! Welcome to my Github profile 👋
 ===============================
 
-I am a Full Stack Developer and I love contributing webapps to the fast growing internet.
-
-*   🌍  I'm from Bangalore
-*   ✉️  You can contact me at [keerthi.vasan.d@gmail.com](mailto:keerthi.vasan.d@gmail.com)
-*   🧠  I'm currently learning Test Driven Development
-*   🤝  I'm open to collaborating on React Js projects
+I'm a UI developer with a passion for creating beautiful and responsive designs. I'm always curious about the latest developments in AI and exploring new tools to integrate into my workflow. I have experience in both consultant and intern positions, always striving to improve my skills and deliver top-notch results. Let's build something amazing together!
 
 <a href="https://www.github.com/kd100100" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/kd100100?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
