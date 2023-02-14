@@ -79,6 +79,7 @@ I'm a UI developer with a passion for creating beautiful and responsive designs.
 
 <br/>  
 
+## Blogs
 <!-- BLOG-POST-LIST:START -->
 - [My Love Affair with Tailwind: A UI Dev&#39;s Perspective](https://dev.to/kd100100/my-love-affair-with-tailwind-a-ui-devs-perspective-2f6j)
 <!-- BLOG-POST-LIST:END -->  
