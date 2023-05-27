@@ -20,13 +20,13 @@
 
 
 ### Glad to see you here!  
-I'm a UI developer with a passion for creating cool and responsive designs. I'm always curious about the latest developments in AI and exploring new tools to integrate into my workflow. I am always striving to improve my skills and deliver top-notch results. Let's build something amazing together!  
+I'm a Application Developer working at Thoughtworks. I also love to create cool and responsive user interface designs. I'm always curious about the latest developments in AI and exploring new tools to integrate into my workflow. I am always striving to improve my skills and deliver top-notch results. Let's build something amazing together!  
 
 
-- 🔭 I’m currently working on unleashing the potential of GPT-3 to tackle future challenges  
+- 🔭 I’m currently exploring the best ways to integrate multiple Generative AI tools to freate something impactful
   
 
-- 🌱 I’m currently learning Tailwind, TypeScript and GraphQL  
+- 🌱 I’m currently learning to write the cleanest code using Teat Driven Development. 
 
 
 <br/>  
